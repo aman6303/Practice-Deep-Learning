@@ -1,3 +1,5 @@
 # For practicing Deep Learning concepts
 
-# 1. Basic Perceptron implementation using sklearn
+# Basic Perceptron implementation using sklearn
+# Understand the problem with single perceptron
+# Perform binary , multi class classification and regression using NN
