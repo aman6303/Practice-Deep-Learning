@@ -11,3 +11,4 @@
 ## Understand the different type of weights initialization techniques in deep learning
 ## Understand about different bias initialization Techniques
 ## Understand Batch Normalization and EWMA(exponential weighted moving average)
+## Understand about different optimimization in deep learning (momentum, NAG, AdaGrad, rmsprop, adam)
