@@ -13,3 +13,4 @@
 ## Understand Batch Normalization and EWMA(exponential weighted moving average)
 ## Understand about different optimimization in deep learning (momentum, NAG, AdaGrad, rmsprop, adam)
 ## Hyperparameter tunning using keras-tuner library
+## Understand about padding in CNN(valid,same)
