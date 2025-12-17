@@ -14,3 +14,6 @@
 ## Understand about different optimimization in deep learning (momentum, NAG, AdaGrad, rmsprop, adam)
 ## Hyperparameter tunning using keras-tuner library
 ## Understand about padding in CNN(valid,same)
+
+## Understand about pooling layer in CNN
+## Implementing LeNet-5 using keras
