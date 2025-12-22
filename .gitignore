@@ -1,0 +1,17 @@
+12_CNN/test/
+
+12_CNN/train/
+
+12_CNN/validation_data/
+
+.ipynb_checkpoints
+
+# Ignore all files with the .jpg extension
+*.jpg
+
+# Ignore all files with the .cvs extension
+*.cvs
+
+# Did you mean .csv (Comma Separated Values)? If so, add this:
+*.csv
+
